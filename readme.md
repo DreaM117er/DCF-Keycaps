@@ -10,4 +10,22 @@
 
 ## 數據規格
 
-![info2](pic/info2.png)
+![MX](pic/info2.png)
+![Choc](pic/info3.png)
+
+## 3D列印及成品
+
+- 推薦使用SLA或LCD機型之3D列印機進行列印，效果最佳。
+
+- 年輪效果推薦直接180度平貼載台加支撐效果最佳，照片中僅微調旋轉Y軸5度左右。
+![](pic/info5.png)
+
+- 樹脂可做到的透光效果如下：
+![](pic/info6.jpg)
+![](pic/info7.jpg)
+
+## 參考及使用工具
+
+- AutoDesk Fusion.
+- Frozen Mighty 8K + ONYX Pro410.
+- CFX Keycaps.
